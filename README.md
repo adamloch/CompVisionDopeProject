@@ -34,3 +34,8 @@ Architecture of the network has been modified to obtain more low level features 
 
 # Dope runtime
 Runtime script has not been edited in comparision to orginal DOPE's repo.
+
+References:
+
+Jonathan Tremblay and Thang To and Balakumar Sundaralingam and Yu Xiang and Dieter Fox and Stan Birchfield
+Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects
